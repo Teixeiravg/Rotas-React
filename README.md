@@ -1,16 +1,97 @@
-# React + Vite
+🚀 Rotas React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+Projeto desenvolvido para demonstrar a utilização de rotas em aplicações React, permitindo navegação entre páginas de forma rápida e dinâmica sem recarregar o navegador.
+
+🔗 Repositório:
+https://github.com/Teixeiravg/Rotas-React
+
+📸 Preview do Projeto
+<img src="../app-rotas/src/assets/Home1.png"/>
+<img src="../app-rotas/src/assets/Home2.png"/>
+<img src="../app-rotas/src/assets/Produtos.png"/>
+<img src="../app-rotas/src/assets/Sobre.png"/>
+<img src="../app-rotas/src/assets/Contatos.png"/>
+
+💡 Dica: Você pode substituir essa imagem por um print real do seu site.
+
+📌 Sobre o Projeto
+
+Este projeto foi criado com o objetivo de praticar conceitos fundamentais do React, principalmente a navegação entre páginas utilizando React Router.
+
+A aplicação demonstra como organizar componentes, páginas e rotas em uma aplicação moderna.
+
+🛠️ Tecnologias Utilizadas
+
+⚛️ React
+
+⚡ Vite
+
+🌐 HTML5
+
+🎨 CSS3
+
+📦 JavaScript
+
+🧭 React Router
+
+📂 Estrutura do Projeto
+Rotas-React
+│
+├── public
+│
+├── src
+│   ├── assets
+│   ├── components
+│   ├── pages
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+└── README.md
+⚙️ Como Rodar o Projeto
+1️⃣ Clonar o repositório
+git clone https://github.com/Teixeiravg/Rotas-React.git
+2️⃣ Entrar na pasta
+cd Rotas-React
+3️⃣ Instalar dependências
+npm install
+4️⃣ Executar o projeto
+npm run dev
+
+Depois abra no navegador:
+
+http://localhost:5173
+✨ Funcionalidades
+
+✔️ Navegação entre páginas
+✔️ Uso de componentes reutilizáveis
+✔️ Estrutura organizada para projetos React
+✔️ Implementação de rotas com React Router
+
+🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido com fins educacionais, para aprender e praticar:
+
+Estrutura de projetos React
+
+Navegação entre páginas
+
+Organização de componentes
+
+Desenvolvimento Frontend moderno
+
+👨‍💻 Autor
+
+Daniel Teixeira
+
+💻 GitHub:
+https://github.com/Teixeiravg
+
+⭐ Se você gostou do projeto, considere dar uma estrela no repositório!
