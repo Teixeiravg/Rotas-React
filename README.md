@@ -19,8 +19,6 @@ https://github.com/Teixeiravg/Rotas-React
 <img src="../app-rotas/src/assets/Sobre.png"/>
 <img src="../app-rotas/src/assets/Contatos.png"/>
 
-💡 Dica: Você pode substituir essa imagem por um print real do seu site.
-
 📌 Sobre o Projeto
 
 Este projeto foi criado com o objetivo de praticar conceitos fundamentais do React, principalmente a navegação entre páginas utilizando React Router.
